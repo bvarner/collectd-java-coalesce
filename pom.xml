@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.varnernet</groupId>
-    <artifactId>collectd-java-coalesce</artifactId>
+    <artifactId>collectd-java-powertargets</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <scm>
-        <developerConnection>scm:git:ssh://git@github.com:bvarner/collectd-java-coalesce.git</developerConnection>
+        <developerConnection>scm:git:ssh://git@github.com:bvarner/collectd-java-powertargets.git</developerConnection>
     </scm>
 
     <repositories>
